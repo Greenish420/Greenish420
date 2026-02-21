@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there, I’m Greenish 👋
+
+I’m a young software engineer focused on front-end development, currently diving into the MERN stack to level up my backend skills. I also have experience making games in Unity, including 2D and 3D mechanics.
+
+I’m interested in low-level systems and understanding how computers really work under the hood.
 
 <!--
 **Greenish420/Greenish420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
